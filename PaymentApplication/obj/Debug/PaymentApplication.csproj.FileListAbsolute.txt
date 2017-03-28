@@ -1,0 +1,10 @@
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\bin\Debug\PaymentApplication.exe.config
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\bin\Debug\PaymentApplication.exe
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\bin\Debug\PaymentApplication.pdb
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.csprojResolveAssemblyReference.cache
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.frmCustomer.resources
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.Properties.Resources.resources
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.csproj.GenerateResource.Cache
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.exe
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.pdb
+C:\Users\VTEBEILA\Desktop\Praticals\Pratices\C#\Windows Form C# Applications\Murach\Chapter 10 More Forms and Controls\PaymentApplication\PaymentApplication\obj\Debug\PaymentApplication.frmPayment.resources
